@@ -149,4 +149,3 @@ Distribuído sob a Licença MIT. Veja o arquivo LICENSE para mais informações.
 ## 👥 Desenvolvedores
 
 **Gustavo Alves**  
-**Vinicius Castro**
